@@ -9,6 +9,15 @@
 - MSSQL
 - Nginx
 
+## Vue Library
+- Vue-Router
+- Vuex
+- Boostrap-vue
+- Datatable
+
+## Laravel Library
+- Datatable
+
 ## Language
 - PHP
 - SQL oracle
@@ -34,9 +43,7 @@
 
 ## Directory tree
 ```
-prject
-│   README.md
-│   file001.txt    
+prject   
 │
 └───app
 │   │   Models.php
